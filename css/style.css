@@ -4,7 +4,7 @@
 }
 body{
     margin: 0;
-    text-align: left;
+    text-align: center;
     background-color: #ffffff;
     font-size: 16px;
     line-height: 1.7; 
@@ -22,7 +22,8 @@ head p {
 text-decoration:overline;
 }
 footer{
-	text-align:center;
+	margin-top:30px;
+	
 	
 }
 footer span{
