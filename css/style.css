@@ -1,4 +1,23 @@
 /*Global*/
 *, *::before, *::after{
-    box-sizing:border-box;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    text-align: left;
+    background-color: #ffffff;
+    font-size: 16px;
+    line-height: 1.7; 
+    color: ##3a3b3d;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 200px;
+}
+h1{
+	font-size:70px;
+}
+head p {
+text-decoration:overline;
 }
