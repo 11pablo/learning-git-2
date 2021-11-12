@@ -21,3 +21,10 @@ h1{
 head p {
 text-decoration:overline;
 }
+footer{
+	text-align:center;
+	
+}
+footer span{
+	font-weight:bold;
+}
