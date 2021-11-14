@@ -35,9 +35,12 @@ section	.container{
 	
 /*footer*/
 footer{
+	display:-ms-flexbox;
 	display:flex;
-	align-items: center;
-	justify-content: center;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: center;
+	    justify-content: center;
 	padding: 5px 300px 5px 300px;
 	margin-top: 30px;
 	background-color: #4e122c;
